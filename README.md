@@ -4,7 +4,7 @@
 This project is a 3D sample Unity game that demonstrates integration with backend services for a persistent game world. It showcases real-time multiplayer functionality, cloud-based game state management, and cross-platform compatibility in a three-dimensional environment.
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/3d-sample-video-placeholder"/>
+  <video src="https://github.com/user-attachments/assets/0b1fbafa-1b80-4e76-ab0b-a4ecce01c29b"/>
 </div>
 
 ## Key Features
